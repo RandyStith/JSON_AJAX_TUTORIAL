@@ -27,7 +27,8 @@ function renderHTML(data) {
         } else {
             htmlString += " and " + data[i].foods.likes[ii];
         }
-       } 
+     } 
+
 
       htmlString += ' and dislikes '; 
 
